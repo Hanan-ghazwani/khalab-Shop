@@ -17,7 +17,7 @@
 * Database: MySQL
 
 ##  تشغيل المشروع محلياً | Local Setup
-1. تأكدي من تشغيل XAMPP.
+1. التأكد من تشغيل XAMPP.
 2. القيام باستيراد ملف قاعدة البيانات (المرفق مع الملفات) في phpMyAdmin.
 3. وضع المجلد في الـ htdocs.
 4. فتح  الرابط: http://localhost/Plant/index.php (أو اسم مجلدك).
